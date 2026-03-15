@@ -2,10 +2,6 @@
 
 ### Future Interns Internship — Task 3
 
-
-
-\
-
 ---
 
 # 📌 Project Overview
