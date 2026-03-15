@@ -141,10 +141,10 @@ README.md                      # Project documentation
 
 Possible improvements include:
 
-• Using **transformer-based models (BERT / Sentence-BERT)** for better resume matching
-• Implementing **Named Entity Recognition (NER)** for advanced skill extraction
-• Supporting **multiple job descriptions**
-• Deploying the system on **cloud platforms**
+- Use **transformer models (BERT / Sentence-BERT)** for better resume matching
+- Implement **Named Entity Recognition (NER)** for advanced skill extraction
+- Support **multiple job description comparisons**
+- Deploy the system on **cloud platforms**
 
 ---
 
