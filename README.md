@@ -25,16 +25,16 @@ The system demonstrates how **Machine Learning and Natural Language Processing (
 
 # 🚀 Key Features
 
-✔ Resume text preprocessing and cleaning
-✔ Skill extraction using **regex-based NLP techniques**
-✔ Job description matching
-✔ **TF-IDF vectorization** for resume similarity
-✔ **Cosine similarity scoring** for candidate ranking
-✔ Skill overlap analysis
-✔ Final candidate ranking system
-✔ **ATS-style resume match score (%)**
-✔ Skill gap detection for uploaded resumes
-✔ Interactive **Streamlit web dashboard**
+- Resume text preprocessing and cleaning
+- Skill extraction using **regex-based NLP techniques**
+- Job description matching
+- **TF-IDF vectorization** for resume similarity
+- **Cosine similarity scoring** for candidate ranking
+- Skill overlap analysis
+- Final candidate ranking system
+- **ATS-style resume match score (%)**
+- Skill gap detection for uploaded resumes
+- Interactive **Streamlit web dashboard**
 
 ---
 
