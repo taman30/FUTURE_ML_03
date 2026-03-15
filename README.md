@@ -160,7 +160,7 @@ This project represents a **simplified AI recruitment platform similar to modern
 
 # 👤 Author
 
-# 👨‍💻 **SIRIKI TAMAN**
+👨‍💻 **SIRIKI TAMAN**
 
 Developed as part of:
 
