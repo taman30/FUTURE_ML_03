@@ -72,7 +72,7 @@ st.markdown('<p class="subtitle">AI-Powered Resume Ranking & Skill Gap Analysis<
 
 @st.cache_data
 def load_data():
-    df = pd.read_csv("Resume.csv")
+    df = pd.read_csv("Resume.csv.gz")
     df = df[["Category","Resume_str"]]
     return df
 
